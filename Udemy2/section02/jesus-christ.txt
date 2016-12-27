@@ -1,0 +1,4 @@
+Adding some content.
+Let's try git diff.
+Let's see if Kate is called.
+Kurka mać, co jest?
